@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Deportologo</string>
+    <string name="title_Page">Deprotologo</string>
+    <string name="description">¿Quieres concer que deporte es adecuado para ti ?</string>
+    <string name="text_continue">Continuar</string>
+    <string name="question">¿Te concideran Veloz?</string>
+    <string name="conclusion">!El deporte que puedes practicar es Futbol¡</string>
+    <string name="seguir">25dp</string>
+    <string name="conformequestion">¿Estas conforme?</string>
+</resources>

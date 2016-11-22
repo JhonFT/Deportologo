@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textprincipalsize">50dp</dimen>
+    <dimen name="textdescription">20dp</dimen>
+    <dimen name="marginprincipaltext">50dp</dimen>
+    <dimen name="imagecircle_profile">150dp</dimen>
+    <dimen name="imagecircle_profile_margin">20dp</dimen>
+    <dimen name="elevation_cirlceimage_profile">5dp</dimen>
+    <dimen name="textToolbar">30dp</dimen>
+    <dimen name="toolbartop">10dp</dimen>
+    <dimen name="laterlasbtn">50dp</dimen>
+    <dimen name="textconclution">30dp</dimen>
+    <dimen name="margenconclution">20dp</dimen>
+    <dimen name="sizetextquestion">25dp</dimen>
+</resources>
